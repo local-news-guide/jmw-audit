@@ -1,3 +1,3 @@
-# Secure audit document
+# Secure client dashboard
 
-This page is password-protected (AES-encrypted, client-side). Contact your agency for the password.
+Password-protected (AES, client-side). Contact your agency for access.
